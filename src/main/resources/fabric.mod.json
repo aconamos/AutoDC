@@ -3,14 +3,14 @@
   "id": "modid",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Bodged AutoDC",
+  "description": "Quickly thrown together AutoDisconnect",
   "authors": [
-    "Me!"
+    "aconamos"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://aconamos.com/",
+    "sources": "https://github.com/aconamos/"
   },
 
   "license": "CC0-1.0",
@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "net.aconamos.autodc.ExampleMod"
     ]
   },
   "mixins": [
