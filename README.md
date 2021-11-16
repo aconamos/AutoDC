@@ -1,9 +1,9 @@
-# Fabric Example Mod
+# AutoDC
 
-## Setup
+## Description
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+A mod to automatically disconnect you after a set amount of time. Useful for exploring past world borders due to the iframes you get from logging in
 
-## License
+## Demo
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+![Alt Text](https://imgur.com/a/5gAHb0s)
